@@ -1,0 +1,37 @@
+{
+    "production_model": {
+        "version": "20260205_001922",
+        "type": "xgb",
+        "path": "models/xgb_model_20260205_001922.pkl",
+        "metrics": {
+            "accuracy": 0.50235,
+            "f1": 0.4924269468101382,
+            "precision": 0.49834847233691165,
+            "recall": 0.48664449148271344
+        }
+    },
+    "history": [
+        {
+            "version": "20260205_001834",
+            "type": "rf",
+            "path": "models/rf_model_20260205_001834.pkl",
+            "metrics": {
+                "accuracy": 0.49375,
+                "f1": 0.4821236765382845,
+                "precision": 0.48940809968847354,
+                "recall": 0.4750529180526157
+            }
+        },
+        {
+            "version": "20260205_001922",
+            "type": "xgb",
+            "path": "models/xgb_model_20260205_001922.pkl",
+            "metrics": {
+                "accuracy": 0.50235,
+                "f1": 0.4924269468101382,
+                "precision": 0.49834847233691165,
+                "recall": 0.48664449148271344
+            }
+        }
+    ]
+}
