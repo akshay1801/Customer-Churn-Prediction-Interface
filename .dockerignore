@@ -1,0 +1,10 @@
+.git
+__pycache__
+data/*.xlsx
+data/*.csv
+models/*.pkl
+models/registry.json
+.ipynb_checkpoints
+*.ipynb
+Project Report.pdf
+Machine Learning Intern Assessment Assignment (1) (1).pdf
